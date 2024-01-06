@@ -27,7 +27,7 @@ Este proyecto incluye un header con enlaces a diferentes secciones, diseñado pa
 ## 🖼️ Vista Previa con Hover
 
 <div align="center">
-  <img src="vista-previa.mov" alt="Vista previa Header">
+  <img src="vista-previa.gif" alt="Vista previa Header">
 </div>
 
 ## 🛠️ Recursos Utilizados
