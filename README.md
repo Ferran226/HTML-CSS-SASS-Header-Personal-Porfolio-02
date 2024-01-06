@@ -36,6 +36,11 @@ Este proyecto incluye un header con enlaces a diferentes secciones, diseñado pa
 
 Siéntete libre de personalizar el proyecto según tus necesidades. ¡Agrega tu propio toque creativo y comparte el resultado final!
 
+## Contribuciones 🤝
+
+¡Contribuciones y sugerencias son bienvenidas! Si encuentras problemas, tienes ideas para mejoras o simplemente quieres participar, por favor, abre un [nuevo issue](https://github.com/Ferran226/HTML-CSS-SASS-Header-Personal-Porfolio-02/issues) o envía una [solicitud de extracción](https://github.com/Ferran226/HTML-CSS-SASS-Header-Personal-Porfolio-02/pulls). Estoy ansioso por colaborar contigo y mejorar este proyecto juntos.
+
+
 ## Trabajo Freelance 💼
 
 ---
