@@ -7,7 +7,7 @@
 ## Tabla de Contenidos
 - [Contenido del Repositorio](src)
 - [Vista Previa](#-vista-previa)
-- [Recursos Utilizados](https://fonts.google.com/))
-- [Contribuciones](https://github.com/notifications))
+- [Recursos Utilizados](https://fonts.google.com/)
+- [Contribuciones](https://github.com/notifications)
 - [Trabajo Freelance](mailto:ferrancolllopez@gmail.com)
 - [Licencia](LICENCIA)
