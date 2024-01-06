@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-principal.mp4" alt="Banner">
+  <img src="banner-principal.gif" alt="Banner">
 </div>
 
 
