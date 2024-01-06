@@ -22,10 +22,10 @@ Este proyecto incluye un header con enlaces a diferentes secciones, diseñado pa
 | **CSS**    | [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](src/style.css) |
 | **SASS**   | [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](src/sass/) |
 
-## 🖼️ Vista Previa
+## 🖼️ Vista Previa con Hover
 
 <div align="center">
-  <img src="vista-previa.png" alt="Vista previa Header">
+  <img src="vista-previa.mov" alt="Vista previa Header">
 </div>
 
 ## 🛠️ Recursos Utilizados
