@@ -1,3 +1,6 @@
-<h1 align="center">
-  ![banner](banner-principal.mp4)
-</h1>
+<div align="center">
+  <img src="banner-principal.mp4" alt="Banner">
+</div>
+
+
+
