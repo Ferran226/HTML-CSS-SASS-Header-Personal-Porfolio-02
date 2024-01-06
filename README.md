@@ -21,3 +21,36 @@ Este proyecto incluye un header con enlaces a diferentes secciones, diseñado pa
 | **HTML**   | [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)](src/index.html) |
 | **CSS**    | [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)](src/style.css) |
 | **SASS**   | [![Sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=Sass&logoColor=white&labelColor=black&color=%23CC6699)](src/sass/) |
+
+## 🖼️ Vista Previa
+
+<div align="center">
+  <img src="vista-previa.png" alt="Vista previa Header">
+</div>
+
+## 🛠️ Recursos Utilizados
+
+🌐 **Google Fonts:** Se utilizan las fuentes Poppins y Bebas Neue para darle un toque elegante al diseño.
+
+## 🎨 Personalización
+
+Siéntete libre de personalizar el proyecto según tus necesidades. ¡Agrega tu propio toque creativo y comparte el resultado final!
+
+## Trabajo Freelance 💼
+
+---
+
+<div align="center">
+  <img src="desde-0.gif" alt="vista previa" width="55%"/>
+</div>
+
+---
+
+Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en 
+<br>
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ferrancolllopez@gmail.com)
+
+
+## Licencia 📜
+
+Este proyecto está bajo la licencia [MIT] - Consulta el archivo [LICENSE](LICENSE) para más detalles.
